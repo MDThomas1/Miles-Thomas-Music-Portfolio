@@ -4,6 +4,7 @@ An online portfolio design to give a comprehensive view of who I am as a musicia
 
 ## Table of Contents 
 * [Link to Deployed Site](#Link-to-Deployed-Site)
+* [Screenshot of Deployed Site](#Screenshot-of-Deployed-Site)
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Installation](#Installation)
@@ -14,6 +15,8 @@ An online portfolio design to give a comprehensive view of who I am as a musicia
 ## Link to Deployed Site
 Coming soon
 
+## Screenshot of Deployed Site
+TBA
 
 ## User Story
 ```bash
