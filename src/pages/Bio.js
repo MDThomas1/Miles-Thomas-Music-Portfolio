@@ -1,7 +1,6 @@
 import React from 'react'
-import Profile from '../images/profile.jpg'
 
-const Home = () => {
+const Bio = () => {
     return (
         <div className='page'>
             <h2 className='page-header'>Bio</h2>
@@ -9,4 +8,4 @@ const Home = () => {
     )
 }
 
-export default Home
+export default Bio
