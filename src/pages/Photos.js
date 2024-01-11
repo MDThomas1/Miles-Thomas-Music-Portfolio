@@ -13,13 +13,13 @@ const Photos = () => {
         <div className='page'>
             <h2 className='page-header'>Photos</h2>
             <div>
-                <img />
-                <img />
-                <img />
-                <img />
-                <img />
-                <img />
-                <img />
+                <img className='reel-image' src={PicOne} />
+                <img className='reel-image' src={PicTwo} />
+                <img className='reel-image' src={PicThree} />
+                <img className='reel-image' src={PicFour} />
+                <img className='reel-image' src={PicFive} />
+                <img className='reel-image' src={PicSix} />
+                <img className='reel-image' src={PicSeven} />
             </div>
         </div>
     )
