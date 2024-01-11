@@ -13,24 +13,24 @@ import Resume from './pages/Resume'
 import Contact from './pages/Contact'
 
 function App() {
-  return (
-    <div className="App">
-      <Router>
-        <Header />
-        <Navbar />
-        <div className='body'>
-          <Routes>
-            <Route path='/' element={<Home />} />
-            <Route path='/Bio' element={<Bio />} />
-            <Route path='/Discography' element={<Discography />} />
-            <Route path='/Photos' element={<Photos />} />
-            <Route path='/Resume' element={<Resume />} />
-            <Route path='/Contact' element={<Contact />} />
-          </Routes>
-        </div>
-      </Router>
-    </div>
-  );
+    return (
+        <div className="App">
+            <Router>
+                <Header />
+                <Navbar />
+                    <div className='body'>
+                        <Routes>
+                            <Route path='/' element={<Home />} />
+                            <Route path='/Bio' element={<Bio />} />
+                            <Route path='/Discography' element={<Discography />} />
+                            <Route path='/Photos' element={<Photos />} />
+                            <Route path='/Resume' element={<Resume />} />
+                            <Route path='/Contact' element={<Contact />} />
+                        </Routes>
+                    </div>
+             </Router>
+         </div>
+    );
 }
 
 export default App;
